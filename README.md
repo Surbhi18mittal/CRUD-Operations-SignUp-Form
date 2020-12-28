@@ -1,1 +1,1 @@
-This is a SignUp Form having proper Form-Validation using ReactJs. It supports Crud Operations ,therefore you can create a user and view the same , update the name,email or the password,delete a user if required.
+This is a SignUp Form having proper Form-Validation using ReactJs. It supports Crud Operations ,therefore you can create a user and view the same , update the name,email or password,delete a user if required.
